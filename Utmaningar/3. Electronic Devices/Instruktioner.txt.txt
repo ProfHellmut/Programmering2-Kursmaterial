@@ -1,0 +1,17 @@
+Ni ska definiera fyra objekt: Radio, Dammsugare, Bord och Kaffekokare.
+Klasserna ska ärva från en klass som ni döper till "MinaSaker" som ska hålla
+koll på en saks vikt och påhittat värde. Varje subklass ska ha definitioner specifikt
+för vad det är samt en metod för att skriva ut information om objektet.
+
+Utöver detta så ska alla elektroniska objekt även ärva från ett interface som ni döper till
+IElektronik som har metoderna On och Off som ni vidaredefinierar i klasserna.
+
+Till sist så ska ni iterera igenom ett List-objekt som håller dessa objekt och köra igenom
+metoderna för information och även On för de objekt som är elektroniska.
+
+Ingen resultatbild för denna utmaning.
+
+
+För uppladdning till GitHub vill jag att ni skapar en mapp som ni döper till Prog2-Utmaningar och därefter en mapp med utmaningens namn.
+Koden bör vara kommenterad.
+(Notis: Skriv erat namn som en kommentar i klassfilen)
